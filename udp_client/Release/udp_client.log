@@ -1,0 +1,25 @@
+﻿  main.cpp
+C:\Users\Birl\Downloads\udp_client\udp_client\main.cpp(70,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Birl\Downloads\udp_client\udp_client\main.cpp(75,50): warning C4244: '=': conversion from 'T' to 'HDfloat', possible loss of data
+          with
+          [
+              T=HDdouble
+          ]
+C:\Users\Birl\Downloads\udp_client\udp_client\main.cpp(76,50): warning C4244: '=': conversion from 'T' to 'HDfloat', possible loss of data
+          with
+          [
+              T=HDdouble
+          ]
+C:\Users\Birl\Downloads\udp_client\udp_client\main.cpp(77,50): warning C4244: '=': conversion from 'T' to 'HDfloat', possible loss of data
+          with
+          [
+              T=HDdouble
+          ]
+  Generating code
+  2 of 221 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+hdu.lib(hduAfx.obj) : warning LNK4099: PDB 'HDU.pdb' was not found with 'hdu.lib(hduAfx.obj)' or at 'C:\Users\Birl\Downloads\udp_client\Release\HDU.pdb'; linking object as if no debug info
+hdu.lib(hduError.obj) : warning LNK4099: PDB 'HDU.pdb' was not found with 'hdu.lib(hduError.obj)' or at 'C:\Users\Birl\Downloads\udp_client\Release\HDU.pdb'; linking object as if no debug info
+  udp_client.vcxproj -> C:\Users\Birl\Downloads\udp_client\Release\udp_client.exe
